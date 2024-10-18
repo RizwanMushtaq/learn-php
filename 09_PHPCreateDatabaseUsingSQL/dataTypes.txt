@@ -1,0 +1,21 @@
+INT - 4 Bytes of Number - its range is -2147483648 - 2147483648
+
+INT SIGNED
+INT UNSIGNED - it will store only positive number. its range will be 0 - 4294967295
+
+
+BIGINT -  8 Bytes of Number - with BIGINT, you can store much larger number
+
+INT(11) it is by default defined, how many "characters of the number value" are shown in GUI of database
+
+FLOAT 
+DOUBLE
+
+VARCHAR(10) - This is actually important, how many characters in a string you will save for a string datatype
+VARCHAR(255) - for example for password
+
+TEXT - It could be used for data where you want to save lot of text. e.g. for storing comments or blog text.
+
+DATE - 2023-05-14
+DATETIME - 2023-05-28 17:30:30
+
